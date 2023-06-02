@@ -1,6 +1,8 @@
 
 /* Your CSS Code here. */
-
+#newton-modal.modal {
+	force: true;
+}
 #open-modal {
 	force:true;
 }
